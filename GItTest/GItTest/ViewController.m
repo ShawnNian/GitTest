@@ -30,6 +30,11 @@
     
     UIImage *image = [UIImage imageNamed:@""];
     UIImage *image2 = [UIImage imageNamed:@""];
+    
+    
+    UILabel *lanel  = [UILabel new];
+    
+    
 
     // Do any additional setup after loading the view, typically from a nib.
 }

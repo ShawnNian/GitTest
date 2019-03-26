@@ -11,5 +11,8 @@
 @interface ViewController : UIViewController
 
 
+@property (nonatomic, strong) UILabel *ll;
+
+
 @end
 
