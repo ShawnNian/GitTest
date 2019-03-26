@@ -34,6 +34,8 @@
     
     UILabel *lanel  = [UILabel new];
     
+    lanel.backgroundColor = [UIColor blackColor];
+    
     
 
     // Do any additional setup after loading the view, typically from a nib.
