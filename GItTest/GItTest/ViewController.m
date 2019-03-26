@@ -30,6 +30,13 @@
     
     UIImage *image = [UIImage imageNamed:@""];
     UIImage *image2 = [UIImage imageNamed:@""];
+    
+    
+    UILabel *lanel  = [UILabel new];
+    
+    lanel.backgroundColor = [UIColor blackColor];
+    
+    
 
     // Do any additional setup after loading the view, typically from a nib.
 }
