@@ -26,6 +26,11 @@
     UIView *view = [UIView new];
     [self.view addSubview:view];
 
+    
+    
+    UIImage *image = [UIImage imageNamed:@""];
+    UIImage *image2 = [UIImage imageNamed:@""];
+
     // Do any additional setup after loading the view, typically from a nib.
 }
 
