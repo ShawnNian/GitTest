@@ -13,6 +13,10 @@
 
 @property (nonatomic, strong) UILabel *ll;
 
+@property (nonatomic, strong) UIImageView *imageV;
+
+
+
 
 @end
 
