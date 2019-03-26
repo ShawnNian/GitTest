@@ -18,6 +18,11 @@
     [super viewDidLoad];
     UIView *view = [UIView new];
     [self.view addSubview:view];
+    
+    UIImageView *imageV = [UIImageView new];
+    [self.view addSubview:imageV];
+    
+    
     // Do any additional setup after loading the view, typically from a nib.
 }
 
