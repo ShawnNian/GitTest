@@ -36,6 +36,8 @@
     
     lanel.backgroundColor = [UIColor blackColor];
     
+    NSString *sss = @"";
+    
     
 
     // Do any additional setup after loading the view, typically from a nib.
