@@ -39,8 +39,6 @@
     NSString *sss = @"";
     
     
-    NSString *yy =   @"1111";
-    
 
     // Do any additional setup after loading the view, typically from a nib.
 }
