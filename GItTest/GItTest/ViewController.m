@@ -38,6 +38,7 @@
     
     NSString *sss = @"";
     
+    NSDictionary *dic = [NSDictionary dictionary];
     
 
     // Do any additional setup after loading the view, typically from a nib.
